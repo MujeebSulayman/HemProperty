@@ -62,9 +62,6 @@ The contract includes several security measures:
 - Access control checks for property and review management
 - Input validation for all user-provided data
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contributing
 
